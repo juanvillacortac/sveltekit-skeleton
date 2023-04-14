@@ -4,4 +4,6 @@
 
 <h1 class="text-5xl mb-4">Welcome to SvelteKit</h1>
 
-<PersonFavorite class="w-128px h-128px" />
+<div class="btn btn-primary">
+  <PersonFavorite />
+</div>
